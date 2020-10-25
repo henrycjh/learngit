@@ -1,2 +1,2 @@
 Learning git is important !
-I love git. 
+I love git very much. 
